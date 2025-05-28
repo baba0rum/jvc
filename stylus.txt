@@ -1,0 +1,18 @@
+@-moz-document url-prefix("https://risibank.fr/embed?") {
+body {
+    
+    color: white;
+}
+
+.mt-2 {
+    
+    background-color: #292929eb;
+}
+
+.bg-light {
+	--bs-bg-opacity: 1;
+	background-color: rgba(30, 30, 30, .86) !important;
+}
+
+
+}
